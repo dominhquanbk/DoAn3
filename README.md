@@ -1,3 +1,4 @@
+# npm install, xong tải tailwind và flowbite-react để chạy
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
